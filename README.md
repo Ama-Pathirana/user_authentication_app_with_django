@@ -1,4 +1,4 @@
-# Django Authentication Tutorial (Login, Register, Logout & Reset Password)
+# Django Authentication App (Login, Register, Logout & Reset Password)
 
 This project is a Django backend application demonstrating a full user authentication system including registration, login, logout, and password reset functionalities. It's built following a tutorial to teach about authentication and registration in Django.
 
